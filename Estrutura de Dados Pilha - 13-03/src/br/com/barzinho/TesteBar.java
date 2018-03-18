@@ -18,7 +18,9 @@ public class TesteBar {
 	 */
 	public static void main(String[] args) {
 
+		//Instanciando um Bar
 		Bar barzinho = new Bar();
+		//A partir do Menu é possível usar todos os recursos da classe.
 		barzinho.menu();
 	}
 
